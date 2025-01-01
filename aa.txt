@@ -6740,8 +6740,8 @@ bedesten
 bedevi
 bedevilik
 bedhah
+vegan
 bedhahlık
-bedia
 bedihi
 bedii
 bediileşme
@@ -10624,6 +10624,7 @@ cenabetlik
 cenabıallah
 cenabıhak
 cenah
+cenan
 cenap
 cenapları
 cenaze
@@ -22163,7 +22164,6 @@ gasbedilmek
 gasbetme
 gasbetmek
 gaseyan
-gasıp
 gasil
 gasilhane
 gasletme
@@ -49674,7 +49674,6 @@ saplayıvermek
 saplı
 sapma
 sapmak
-sapot
 sapotgiller
 saprofit
 sapsarı
@@ -52239,7 +52238,6 @@ siyasilik
 siyasiyat
 siyatik
 siyek
-siyem
 siyenit
 siyer
 siyme
