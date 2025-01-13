@@ -9013,7 +9013,6 @@ boyayıverme
 boyayıvermek
 boyca
 boydak
-boydan
 boydaş
 boydaşlık
 boykot
@@ -33316,7 +33315,6 @@ kerkes
 kerki
 kerkinme
 kerkinmek
-kerli
 kermen
 kermes
 kerpeten
@@ -44647,7 +44645,6 @@ ozuga
 öfkelenmek
 öfkeli
 öfkelilik
-öfkesi
 öfkesiz
 öfkesizlik
 öge
