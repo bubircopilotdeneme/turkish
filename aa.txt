@@ -1,4 +1,6 @@
 ab
+lari
+asur
 ab
 ph
 aba
@@ -2188,7 +2190,6 @@ alternatiflilik
 alternatifsiz
 alternatör
 altes
-altgeçiş
 altı
 altıeylül
 altıgen
@@ -12647,7 +12648,6 @@ cüzzamlı
 çevikleştirme
 çevikleştirmek
 çeviklik
-çevir
 çevirebilme
 çevirebilmek
 çeviren
@@ -17659,7 +17659,6 @@ durmadan
 durmak
 durmaksızın
 durmalı
-durmuş
 duromer
 dursun
 dursunbey
@@ -19463,7 +19462,6 @@ erdirme
 erdirmek
 erdişi
 erdişilik
-erdoğan
 erebilme
 erebilmek
 ereğli
@@ -20304,7 +20302,6 @@ evsemek
 evsin
 evsiz
 evsizlik
-evşen
 evvel
 evvela
 evvelallah
@@ -21870,7 +21867,6 @@ fundalık
 fundamentalist
 fundamentalizm
 furgon
-furta
 furya
 fut
 futa
@@ -23447,7 +23443,6 @@ göğüslüce
 göğüslük
 gök
 gökalp
-gökay
 gökbalina
 gökben
 gökberk
@@ -26770,7 +26765,6 @@ homoseksüel
 homoseksüellik
 homoteti
 homotetik
-homur
 homurdama
 homurdamak
 homurdanış
@@ -50689,7 +50683,6 @@ sepetsiz
 sepi
 sepici
 sepicilik
-sepil
 sepileme
 sepilemek
 sepilenme
@@ -58175,7 +58168,6 @@ tokurdamak
 tokurdatma
 tokurdatmak
 tokurtu
-tokuş
 tokuşma
 tokuşmak
 tokuşturabilme
@@ -60769,7 +60761,6 @@ vadolunmak
 vaduz
 vaftiz
 vaftizhane
-vagina
 vagon
 vagonet
 vagotoni
@@ -63081,7 +63072,6 @@ yeleli
 yeleme
 yelengeç
 yelin
-yeliz
 yelken
 yelkenci
 yelkencilik
